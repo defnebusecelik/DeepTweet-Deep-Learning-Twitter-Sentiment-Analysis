@@ -18,7 +18,6 @@ Bu proje, Twitter’dan elde edilen geniş ölçekli “Sentiment140” veri set
 4. **Durak Kelime Temizliği**: NLTK stop-word, “not” çıkarılmadı.
 5. **Lemmatizasyon & Stemming**: `WordNetLemmatizer`, `PorterStemmer`.
 6. **Padding & Masking**: `max_len` = 24/32 token.
-7. **Stratified Alt Örnekleme**: Eğitim verisinin %8–25’i.
 
 
 ## 3. Test Edilen Modeller
