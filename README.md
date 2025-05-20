@@ -24,10 +24,9 @@ Bu proje, Twitter’dan elde edilen geniş ölçekli “Sentiment140” veri set
 ## 3. Test Edilen Modeller
 
 * **CNN + BiLSTM**
-* **CNN + LSTM**
+* **CNN + RNN**
 * **MLP**
 * **Tek Katmanlı LSTM**
-* **Gürültü Destekli LSTM**
 * **Transformer & BERT Tabanlı**
 
 
