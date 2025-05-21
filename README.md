@@ -31,12 +31,12 @@ Bu proje, Twitter’dan elde edilen geniş ölçekli “Sentiment140” veri set
 
 ## 4. Performans Sonuçları
 
-|       Model       | Veri % | Test Accuracy | Test Loss |
-| :---------------: | -----: | ------------: | --------: |
-|    CNN + BiLSTM   |   20 % |       78.54 % |    0.5218 |
-|    CNN + BiLSTM   |   15 % |       78.23 % |    0.5519 |
-|     CNN + LSTM    |   10 % |       77.34 % |    0.5277 |
-|        MLP        |   10 % |       75.55 % |    0.5454 |
-| Tek Katmanlı LSTM |   25 % |       78.76 % |    0.4482 |
-| Tek Katmanlı LSTM |   12 % |       74.62 % |    0.4193 |
-|   Gürültülü LSTM  |   12 % |       69.99 % |    0.6488 |
+|       Model       | Test Accuracy |
+| :---------------: | ------------: | 
+|    CNN + BiLSTM   |      %78      |     
+|    CNN + RNN      |      %80      |    
+|        BERT       |      %68      |   
+|        MLP        |      %75      |   
+|       LSTM        |      %78      |      
+
+
